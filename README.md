@@ -1,0 +1,2 @@
+# CSS_tricks
+This is a collection of my best CSS animation tutorials. I will be adding more later. You can find tutorials on CSS3 transforms, SVG filters, keyframes, clip-path, morphing, 3D hover effects, text/typography animations and other CSS tricks. We use these to create animated buttons, menus, cards and other interactive HTML elements. Feel free to code along and use these to improve your website or other web design or web development projects.
